@@ -1,0 +1,5 @@
+10-word Description:
+Azure DevOps pipeline with Maven, SonarQube, Docker, Trivy, Deployment.
+
+20–25 word Explanation:
+This Azure DevOps project automates CI/CD by compiling code with Maven, performing code quality checks via SonarQube, containerizing with Docker, scanning with Trivy, and deploying.
